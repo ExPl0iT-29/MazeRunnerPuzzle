@@ -1,6 +1,8 @@
 Maze Runner
 
 TODO_Tushar:
+    Idle , Run Animations (3d Prespective)
+    Rigid Body Controller
     Playground
     Character Creation
     3D Camera Character(TPP)
