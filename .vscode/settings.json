@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MazeRunnerPuzzle.sln"
+    "dotnet.defaultSolution": "MazeRunnerPuzzle.sln",
+    "dotnet.preferCSharpExtension": true
 }
