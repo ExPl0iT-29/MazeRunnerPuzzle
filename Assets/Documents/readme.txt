@@ -1,13 +1,16 @@
 Maze Runner
 
 TODO_Tushar:
-    Idle , Run Animations (3d Prespective)
-    Rigid Body Controller
+    Working - Idle , Run Animations (3d Prespective) wasd
+    Axis Constraints (Ask what this is actually)
+    Done - wasd - animation controller & Animations
+    TODO - joystick controller
+    
+    Rigid Body Controller(Ask if it is the same)
     Playground
-    Character Creation
+    Character Creation (this too done )
     3D Camera Character(TPP)
-    Animations
-    Player Controller Scripts
+    Done - Player Controller Scripts
 
 
 

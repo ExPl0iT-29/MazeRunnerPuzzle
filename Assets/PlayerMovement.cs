@@ -47,8 +47,6 @@ public class PlayerMovementTutorial : MonoBehaviour
 
         MyInput();
         SpeedControl();
-
-        
     }
 
     private void FixedUpdate()
